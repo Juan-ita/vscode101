@@ -154,13 +154,13 @@ License
 
 This project is licensed under the MIT License.
 
-Author
+## Author
 
-**Your Name**
+**Juanita kavata**
 
-* GitHub: https://github.com/your-username
-* Email: your-email@example.com
+* GitHub: [https://github.com/juan-ita]
+* Email: your-email: kavatajuanita@example.com
 
-Vision
+## Vision
 
 To digitize and empower the Jua Kali sector by providing accessible, scalable, and efficient software solutions that enhance productivity and market reach.
